@@ -1,2 +1,2 @@
-#My Appp
+#MyAppp
 This is my cool apppp
