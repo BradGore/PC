@@ -1,4 +1,4 @@
 <?php
 echo'Hi worl';
-//this is First comment
-//this is sec comentt
+//this is First comm
+//this is sec co
